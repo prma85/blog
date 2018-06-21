@@ -1,0 +1,10 @@
+/* TEAM */
+	Chef:Paulo Andrade
+	Contact: paulo85 [at] gmail.com
+	From:Regina, SK, Canada
+		
+/* SITE */
+	Last update:2017/02/04
+	Language: Portuguese
+	Doctype:HTML5
+	IDE: Sublime Text, Notepad++, FileZilla
