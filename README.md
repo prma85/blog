@@ -1,0 +1,2 @@
+# blog
+Blog cearensesnocanada.com
